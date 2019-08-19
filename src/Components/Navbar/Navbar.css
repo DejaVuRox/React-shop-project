@@ -1,0 +1,26 @@
+.header-text{
+  padding-left: 50px;
+  position: relative;
+  left: 80px;
+  margin-bottom: 20px
+}
+
+.nav-btn{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 8px;
+  position: absolute;
+  right: 80px;
+}
+.cartCounter{
+  border-radius: 50%;
+  background: rgb(218, 85, 85);
+  padding: 0 5px;
+  margin-left:-5px;
+  margin-top: -5px;
+  font-weight: bold
+}
+.cart{
+  width: 30px
+}
